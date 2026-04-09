@@ -1,3 +1,6 @@
 This is a test from the feature branch!
 This is a line. 
-This is another line.y
+This is another line.
+This is yet another line.
+Still another line!
+
